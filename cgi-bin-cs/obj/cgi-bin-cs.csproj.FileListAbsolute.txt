@@ -1,0 +1,5 @@
+C:\Downloads\CD-REC\TEST\cgi-bin-cs\cgi-bin-cs\bin\Debug\cgi-bin-cs.exe
+C:\Downloads\CD-REC\TEST\cgi-bin-cs\cgi-bin-cs\bin\Debug\cgi-bin-cs.pdb
+C:\Downloads\CD-REC\TEST\cgi-bin-cs\cgi-bin-cs\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\TEST\cgi-bin-cs\cgi-bin-cs\obj\Debug\cgi-bin-cs.exe
+C:\Downloads\CD-REC\TEST\cgi-bin-cs\cgi-bin-cs\obj\Debug\cgi-bin-cs.pdb
